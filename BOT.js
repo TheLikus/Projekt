@@ -17,7 +17,7 @@ var config = {
     identity: {
         username: "TheLikus_BOT",
         // get yours at http://twitchapps.com/tmi
-        password: "oauth:kgpwxqlqdho4v6dikbp69miqkr1smh"
+        password: "oauth:password"
     },
     channels: [channelName]
 }
